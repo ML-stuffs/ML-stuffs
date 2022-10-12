@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manfred Lafosse, PhD, aka @ML-stuffs, 
-- 👀 I’m interested in maps and python
-- 🌱 I’m currently learning machine learning on Datacamp, yet I already know a fews things on unsupervized classifications
-- 💞️ I’m looking to collaborate on doing maps
+- 👀 I’m interested in maps and python. 
+- 🌱 I’m currently learning machine learning with python on Datacamp. I already know a fews things on unsupervised classification, though.
+- 💞️ I’m looking to collaborate on doing maps.
 - 📫 How to reach me mlafosse@gmail.com
 
 <!---
